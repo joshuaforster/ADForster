@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Button from '../../CustomComponents/buttons';
 import { services } from '../../Data/serviceData';
-import { Link } from 'react-router-dom';
+
 
 const images = [
   '/images/Home/booking.jpg',
