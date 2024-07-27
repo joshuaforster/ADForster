@@ -1,0 +1,46 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/Fonts/Montserrat-Regular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'MinionPro';
+    src: url('/Fonts/MinionPro-Regular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'MyriadPro';
+    src: url('/Fonts/MyriadPro-Regular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'MyriadProBold';
+    src: url('/Fonts/MyriadPro-Bold.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'MyriadProBoldIt';
+    src: url('/Fonts/MyriadPro-BoldIt.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'MyriadProLight';
+    src: url('/Fonts/MyriadPro-Light.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'Neutra2TextBold';
+    src: url('/Fonts/Neutra2Text-Bold.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'Neutra2TextBook';
+    src: url('/Fonts/Neutra2Text-Book.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'Neutra2TextDemi';
+    src: url('/Fonts/Neutra2Text-Demi.otf') format('opentype');
+  }
+  

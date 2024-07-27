@@ -1,0 +1,107 @@
+/* src/index.css */
+
+
+/* Existing imports */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Custom Swiper pagination styles for light mode */
+.swiper-pagination-bullet {
+  background: #000 !important;
+}
+
+/* Custom Swiper pagination styles for dark mode */
+.dark .swiper-pagination-bullet {
+  background: #fff !important;
+}
+
+.fixed {
+  z-index: 10000; /* Ensure this is high enough to be above all other components */
+}
+
+/* src/App.css */
+.app-container.fullscreen {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.app-container.fullscreen > * {
+  display: none;
+}
+
+.app-container.fullscreen .fullscreen-content {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+
+/* In your main CSS file or index.css */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Custom Swiper pagination styles for light mode */
+.swiper-pagination-bullet {
+    background: #000 !important;
+  }
+  
+  /* Custom Swiper pagination styles for dark mode */
+  .dark .swiper-pagination-bullet {
+    background: #fff !important;
+  }
+
+  
+
+  .fixed {
+    z-index: 10000; /* Ensure this is high enough to be above all other components */
+  }
+
+  /* src/App.css */
+.app-container.fullscreen {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.app-container.fullscreen > * {
+  display: none;
+}
+
+.app-container.fullscreen .fullscreen-content {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+/* Custom Swiper pagination styles for light mode */
+.swiper-pagination-bullet {
+  background: #000 !important;
+}
+
+/* Custom Swiper pagination styles for dark mode */
+.dark .swiper-pagination-bullet {
+  background: #fff !important;
+}
+
+.fixed {
+  z-index: 10000; /* Ensure this is high enough to be above all other components */
+}
+
+/* src/App.css */
+.app-container.fullscreen {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.app-container.fullscreen > * {
+  display: none;
+}
+
+.app-container.fullscreen .fullscreen-content {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.cookie-consent-button:hover {
+  background-color: #916333 !important;
+}
