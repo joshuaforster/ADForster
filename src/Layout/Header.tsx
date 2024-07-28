@@ -23,7 +23,7 @@ export default function Header() {
   };
 
   return (
-    <header className="sticky top-0 bg-gray-100 shadow-lg z-50">
+    <header className="sticky top-0 bg-white shadow-lg z-50">
       <nav className="bg-customGray border-gray-200 px-4 lg:px-6 py-4">
         <div className="flex items-center justify-between mx-auto max-w-screen-xl">
           <Link to="/" className="flex items-center" onClick={handleLinkClick}>
