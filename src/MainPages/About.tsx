@@ -8,8 +8,8 @@ const About = () => {
   return (
     <div>
       <Helmet>
-        <title>About - Lambert & Wright</title>
-        <meta name="description" content="Learn more about Lambert & Wright, our story, and our award-winning expertise in property builds and renovations. Meet our dedicated team and discover why homeowners trust us to transform their houses into dream homes." />
+        <title>About - AD Forster</title>
+        <meta name="description" content="Learn more about AD Forster." />
       </Helmet>
       <HeaderSection
           image='/images/Gallery/toWEBP-3 2/WhatsApp Image 2024-06-03 at 19.37.51 (1).webp'

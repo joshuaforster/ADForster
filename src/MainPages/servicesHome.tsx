@@ -8,10 +8,10 @@ export default function ServicesHome() {
   return (
     <div>
       <Helmet>
-        <title>Our Services | Lambert & Wright</title>
+        <title>Our Services | AD Forster Window Cleaning</title>
         <meta 
           name="description" 
-          content="Discover the range of services offered by Lambert & Wright. From architectural planning to full project management, our experienced team is here to help you with your renovation and building needs." 
+          content="Discover the range of services offered by AD Forster Window Cleaning. From window cleaning to gutter cleaning, our experienced team is here to help you with all your cleaning needs." 
         />
       </Helmet>
       <HeaderSection 

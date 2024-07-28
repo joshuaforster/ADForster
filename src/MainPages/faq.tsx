@@ -93,8 +93,8 @@ const FAQ: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>FAQs - Lambert & Wright</title>
-        <meta name="description" content="Find answers to frequently asked questions about Lambert & Wright, including services offered, areas of expertise, project timelines, and more." />
+        <title>FAQs - AD Forster Window Cleaning</title>
+        <meta name="description" content="Find answers to frequently asked questions about AD Forster Window Cleaning, including services offered, pricing, booking, and more." />
       </Helmet>
       <section className="relative bg-customGray dark:bg-gray-900">
         <HeaderSection
