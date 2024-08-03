@@ -14,11 +14,11 @@ export default function AboutHead() {
               </h1>
               <div className="max-w-xl">
                 <p className="mt-6">
-                  At AD Forster Window Cleaning, we take immense pride in the work we do because it defines who we are. Founded by Adam Forster, our company has been providing top-notch window cleaning services in Norwich and Norfolk for over a decade. Our commitment to customer satisfaction and eco-friendly methods sets us apart in the industry.
+                  At AD Forster Window Cleaning, we take immense pride in the work we do because it defines who we are. Based in Norwich, Norfolk, our company has been providing top-notch window cleaning services for over a decade. Our commitment to customer satisfaction and eco-friendly methods sets us apart in the industry.
                 </p>
                 <h2 className="mt-8 text-2xl font-bold tracking-tight text-white sm:text-3xl">Our Story</h2>
                 <p className="mt-4">
-                  AD Forster Window Cleaning was founded by Adam Forster, who brings a wealth of knowledge and experience in window cleaning. Over the years, Adam has built a reputation for reliability, professionalism, and exceptional service. Our team uses advanced equipment and eco-friendly methods to ensure your windows are sparkling clean.
+                  AD Forster Window Cleaning has built a reputation for reliability, professionalism, and exceptional service. Our team uses advanced equipment and eco-friendly methods to ensure your windows are sparkling clean.
                 </p>
                 <p className="mt-4">
                   We help homeowners and businesses maintain their properties' appearance with our comprehensive cleaning solutions, including window cleaning, gutter cleaning, fascia and soffit cleaning, and more.

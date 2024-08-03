@@ -1,4 +1,6 @@
 import React, { Suspense, lazy } from 'react';
+import LoadingSpinner from './CustomComponents/Loading/LoadingSpinner';
+import DelayedFallback from './CustomComponents/Loading/DelayedFallback';
 import { Link } from 'react-router-dom';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import CookieConsent from 'react-cookie-consent';
@@ -27,7 +29,7 @@ function App() {
         <ProjectsProvider>
           <BrowserRouter>
             <ScrollToTop />
-            <Suspense fallback={<div>Loading...</div>}>
+            <Suspense fallback={<DelayedFallback><LoadingSpinner /></DelayedFallback>}>
               <Routes>
                 <Route element={<Layout />}>
                   <Route path='/' element={<Home />} />
