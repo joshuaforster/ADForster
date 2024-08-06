@@ -58,7 +58,33 @@ const reviews = [
     text: "Adam gave me a quote Friday and cleaned my windows and conservatory Monday, very prompt professional service. Would highly recommend.",
     name: "Stuart Lynes",
   },
+  {
+    id: 12,
+    text: "Lovely clean windows. Always notified when they're to be done. Dave is very friendly.",
+    name: "Annette Waye",
+  },
+  {
+    id: 13,
+    text: "Easy going, pleasant guys. A cleaning schedule was agreed between us, they advise (text) when the next window clean is due. They always do a good job. In the spring the guys cleaned the gutters for me. It was done efficiently, with no fuss. Everything was cleared away. Payment made easy by bank transfer. I'm pleased my neighbour recommended them.",
+    name: "Ann Staff",
+  },
+  {
+    id: 14,
+    text: "First class service. Professional and friendly. Efficient and thorough. Very reasonably priced. Would highly recommend.",
+    name: "Lesley Barham",
+  },
+  {
+    id: 15,
+    text: "Great company does a great job of our windows every time 👍👍.",
+    name: "Paul Firth",
+  },
+  {
+    id: 16,
+    text: "Always does a brilliant job!",
+    name: "Cheyenne Turbett",
+  },
 ];
+
 
 export default function Reviews() {
   const [currentReviewIndex, setCurrentReviewIndex] = useState(0);
